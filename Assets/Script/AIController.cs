@@ -65,7 +65,7 @@ public class AIController : MonoBehaviour
 
             if (Physics.Raycast(ray, out RaycastHit hit))
             {
-                // SetAITargetLocation(hit.point);
+                //SetAITargetLocation(hit.point);
             }
         }
 
